@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anita Yadav</h1>
 <h3 align="center">A passionate Data Analyst and Data Enthusiast from India</h3>
-<img align="right", alt = "analysis", width = 400px, src = "https://i.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.webp">
+<img align="right", padding = 50px,alt = "analysis", width = 300px, src = "https://i.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanitayadav07&label=Profile%20views&color=0e75b6&style=flat" alt="imanitayadav07" /> </p>
 
