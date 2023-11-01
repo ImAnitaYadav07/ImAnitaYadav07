@@ -16,7 +16,7 @@ Ask me anything <a href="https://github.com/ImAnitaYadav07/ImAnitaYadav07/issues
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-I am an aspiring Data Analyst with a primary focus on data cleaning, EDA, data visualization and product analysis. My passion lies in exploring these data insights, finding pattern of data-flow and constructing solutions that excel in the ever-evolving field of data analytics. Beyond my acquiring data skills , I enjoy hobbies such as soccer, logo design, and finding something new to do. so I keep myself curious and inspiring.  
+I am an aspiring Data Analyst with a primary focus on data cleaning, EDA, data visualization and product analysis. My passion lies in exploring these data insights, finding pattern of data-flow and constructing solutions that excel in the ever-evolving field of data analytics. Beyond my acquiring data skills , I enjoy hobbies such as soccer, logo design, and finding something new to do. So I keep myself curious and inspiring.  
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“"Data are just summaries of thousands of stories – tell a few of those stories to help make the data meaningful."” - Chip Heath     ❞</i>
